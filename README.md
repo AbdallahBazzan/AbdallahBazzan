@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdallahBazzan
 - 👀 I’m interested in data science and making evidence-based decisions.
-- 🌱 I’m currently learning business analytics at Hult.
+- 🌱 I’m currently learning business analytics and data science.
 - 💞️ I’m looking to collaborate on complex business problems through data analysis to achieve ultimate growth as a member of a productive team in a culture of excellence
 - 📫 You can reach me on abazzan@student.hult.edu
 
