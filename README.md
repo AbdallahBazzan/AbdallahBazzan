@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AbdallahBazzan
-- 👀 I’m interested in solving business problems using analytics and data science
-- 🌱 I’m currently studying my masters in business analytics
-- 💞️ I’m looking to collaborate on complex business problems through data analysis to identify growth opportunities
+- 👀 I’m interested in Sustainability, Artificial Intelligence and Investing. 
+- 🌱 I’m currently working as an Energy Data Analyst at CU Boulder
 - 📫 You can reach me on abazzan@student.hult.edu
 
 <!---
